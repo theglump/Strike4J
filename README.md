@@ -1,2 +1,4 @@
 # Strike4J
-Java client for getstrike.net
+GetStrike API Java client
+
+*Work in progress...*
